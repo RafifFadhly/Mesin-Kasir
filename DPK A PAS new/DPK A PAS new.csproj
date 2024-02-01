@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE33D5AE-A909-4F1C-A141-F93E4BA937E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DPK_A_PAS_new</RootNamespace>
+    <AssemblyName>DPK A PAS new</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data Menu.Designer.cs">
+      <DependentUpon>Data Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data User.Designer.cs">
+      <DependentUpon>Data User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data_MenuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Data_MenuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Data_MenuDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Data_MenuDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="hitung_kalku.cs" />
+    <Compile Include="Kalkulator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kalkulator.Designer.cs">
+      <DependentUpon>Kalkulator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoginDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoginDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MenuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MenuDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MenuDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MenuDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MenuDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="output.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="output.Designer.cs">
+      <DependentUpon>output.cs</DependentUpon>
+    </Compile>
+    <Compile Include="penghasilanDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>penghasilanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Penghasilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Penghasilan.Designer.cs">
+      <DependentUpon>Penghasilan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="penghasilanDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>penghasilanDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="penghasilanDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>penghasilanDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PesananDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PesananDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PesananDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PesananDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PesananDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PesananDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PesananDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PesananDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PesananDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PesananDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi.Designer.cs">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Data Menu.resx">
+      <DependentUpon>Data Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data User.resx">
+      <DependentUpon>Data User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kalkulator.resx">
+      <DependentUpon>Kalkulator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="output.resx">
+      <DependentUpon>output.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Penghasilan.resx">
+      <DependentUpon>Penghasilan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Transaksi.resx">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Data_MenuDataSet.xsc">
+      <DependentUpon>Data_MenuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Data_MenuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Data_MenuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Data_MenuDataSet.xss">
+      <DependentUpon>Data_MenuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Data_MenuDataSet1.xsc">
+      <DependentUpon>Data_MenuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Data_MenuDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Data_MenuDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Data_MenuDataSet1.xss">
+      <DependentUpon>Data_MenuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LoginDataSet.xsc">
+      <DependentUpon>LoginDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LoginDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LoginDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LoginDataSet.xss">
+      <DependentUpon>LoginDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LoginDataSet1.xsc">
+      <DependentUpon>LoginDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LoginDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LoginDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LoginDataSet1.xss">
+      <DependentUpon>LoginDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet.xsc">
+      <DependentUpon>MenuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MenuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MenuDataSet.xss">
+      <DependentUpon>MenuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet1.xsc">
+      <DependentUpon>MenuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MenuDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MenuDataSet1.xss">
+      <DependentUpon>MenuDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet2.xsc">
+      <DependentUpon>MenuDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MenuDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MenuDataSet2.xss">
+      <DependentUpon>MenuDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet3.xsc">
+      <DependentUpon>MenuDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MenuDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MenuDataSet3.xss">
+      <DependentUpon>MenuDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet4.xsc">
+      <DependentUpon>MenuDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="MenuDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MenuDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MenuDataSet4.xss">
+      <DependentUpon>MenuDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="penghasilanDataSet.xsc">
+      <DependentUpon>penghasilanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="penghasilanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>penghasilanDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="penghasilanDataSet.xss">
+      <DependentUpon>penghasilanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="penghasilanDataSet1.xsc">
+      <DependentUpon>penghasilanDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="penghasilanDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>penghasilanDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="penghasilanDataSet1.xss">
+      <DependentUpon>penghasilanDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="penghasilanDataSet2.xsc">
+      <DependentUpon>penghasilanDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="penghasilanDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>penghasilanDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="penghasilanDataSet2.xss">
+      <DependentUpon>penghasilanDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet.xsc">
+      <DependentUpon>PesananDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PesananDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PesananDataSet.xss">
+      <DependentUpon>PesananDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet1.xsc">
+      <DependentUpon>PesananDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PesananDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PesananDataSet1.xss">
+      <DependentUpon>PesananDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet2.xsc">
+      <DependentUpon>PesananDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PesananDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PesananDataSet2.xss">
+      <DependentUpon>PesananDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet3.xsc">
+      <DependentUpon>PesananDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PesananDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PesananDataSet3.xss">
+      <DependentUpon>PesananDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet4.xsc">
+      <DependentUpon>PesananDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="PesananDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PesananDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PesananDataSet4.xss">
+      <DependentUpon>PesananDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

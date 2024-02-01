@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPK A PAS new", "DPK A PAS new\DPK A PAS new.csproj", "{CE33D5AE-A909-4F1C-A141-F93E4BA937E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE33D5AE-A909-4F1C-A141-F93E4BA937E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE33D5AE-A909-4F1C-A141-F93E4BA937E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE33D5AE-A909-4F1C-A141-F93E4BA937E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE33D5AE-A909-4F1C-A141-F93E4BA937E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38060B9-EDB3-49A9-92C1-436223F8B612}
+	EndGlobalSection
+EndGlobal

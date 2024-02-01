@@ -1,0 +1,79 @@
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe.config
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.pdb
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Login.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Menu.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.exe
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.pdb
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_Menu.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_User.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Transaksi.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Kalkulator.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.output.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Penghasilan.resources
+C:\Users\LENOVO\source\repos\DPK A PAS new\DPK A PAS new\bin\Debug\logo.png
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\bin\Debug\logo.png
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe.config
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.pdb
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.AssemblyReference.cache
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.SuggestedBindingRedirects.cache
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_Menu.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_User.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Kalkulator.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Login.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Menu.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.output.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Penghasilan.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Properties.Resources.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Transaksi.resources
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.GenerateResource.cache
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.CoreCompileInputs.cache
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.exe
+D:\data aplikasi vs\baru\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.pdb
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\bin\Debug\logo.png
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe.config
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.pdb
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.AssemblyReference.cache
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.SuggestedBindingRedirects.cache
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_Menu.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_User.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Kalkulator.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Login.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Menu.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.output.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Penghasilan.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Properties.Resources.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Transaksi.resources
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.GenerateResource.cache
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.CoreCompileInputs.cache
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.exe
+D:\data aplikasi vs\realiase\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.pdb
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\bin\Debug\logo.png
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe.config
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.exe
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\bin\Debug\DPK A PAS new.pdb
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.AssemblyReference.cache
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.SuggestedBindingRedirects.cache
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_Menu.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Data_User.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Kalkulator.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Login.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Menu.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.output.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Penghasilan.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Properties.Resources.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK_A_PAS_new.Transaksi.resources
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.GenerateResource.cache
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.CoreCompileInputs.cache
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.exe
+D:\data aplikasi vs\realiase\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.pdb
+C:\Users\LENOVO\Downloads\mesin kasir-20240201T001401Z-001\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\mesin kasir-20240201T001401Z-001\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.exe
+C:\Users\LENOVO\Downloads\mesin kasir-20240201T001401Z-001\mesin kasir\DPK A PAS new\DPK A PAS new\obj\Debug\DPK A PAS new.pdb
